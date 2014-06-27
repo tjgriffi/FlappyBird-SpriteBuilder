@@ -319,6 +319,8 @@
 				<string></string>
 				<key>displayName</key>
 				<string>bush</string>
+				<key>hidden</key>
+				<true/>
 				<key>memberVarAssignmentName</key>
 				<string>_bush1</string>
 				<key>memberVarAssignmentType</key>
@@ -408,6 +410,8 @@
 				<string></string>
 				<key>displayName</key>
 				<string>bush</string>
+				<key>hidden</key>
+				<true/>
 				<key>memberVarAssignmentName</key>
 				<string>_bush2</string>
 				<key>memberVarAssignmentType</key>
@@ -485,6 +489,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1510,8 +1516,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
